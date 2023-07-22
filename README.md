@@ -1,4 +1,5 @@
 Hi there, I'm Md Alfaz FP - .NET Developer 👋
+
 Welcome to my GitHub profile! I'm a passionate .NET developer with a strong focus on building robust and scalable web applications. I enjoy crafting elegant code and leveraging the power of .NET to create efficient solutions for complex challenges. 💻🚀
 
 🛠️ Technologies & Tools
@@ -15,7 +16,7 @@ Git
 and more...
 
 📫 Let's Connect!
-You can reach out to me via email at your.email@example.com or connect with me on social media:
+You can reach out to me via email at mdalfazsun@gmail.com or connect with me on social media:
 
 LinkedIn:https://www.linkedin.com/in/md-alfaz-fp/
 
