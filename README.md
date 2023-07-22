@@ -3,16 +3,27 @@ Hi there, I'm Md Alfaz FP - .NET Developer 👋
 Welcome to my GitHub profile! I'm a passionate .NET developer with a strong focus on building robust and scalable web applications. I enjoy crafting elegant code and leveraging the power of .NET to create efficient solutions for complex challenges. 💻🚀
 
 🛠️ Technologies & Tools
+
 C#
+
 .NET Framework
+
 ASP.NET
+
 ASP.NET Core
+
 Entity Framework
+
 SQL Server
+
 HTML5
+
 CSS3
+
 JavaScript
+
 Git
+
 and more...
 
 📫 Let's Connect!
